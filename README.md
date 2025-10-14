@@ -34,11 +34,11 @@ I fundamentally believe in truth and the inherent goodness of the overwhelming m
 
 # What I Am Really Good At
 
-I read fast, and I am good at learning large amounts of information quickly. I excel at low-level programming and digging into the internals of core dumps and packet traces with a hex editor and a debugger. My superpower is the ability to intensely concentrate on a single task for an extended period of time.
+I read fast, and I am good at learning large amounts of information quickly. I excel at low-level programming and digging into the internals of core dumps and packet traces with a hex editor and a debugger. My superpower is the ability to intensely concentrate on a single task for an extended period of time. I have a slew of minor certifications and a few that are industry recognized like the RHCSA and Security+. I was accepted to the Toptal top 3% network. I'm almost done with my MS, and I have a 4.0.
 
 # Feedback and Recognition
 
-I like winning awards. I am intensely competitive and have a strong dislike for favortism, nepotism, and anything else that awards people over their actual abilities and virtues. I don't enjoy undue criticism, but flattery will get you nowhere. If you have constructive criticism, I would appreciate it if you would let me know. 
+I like winning awards. I am intensely competitive and have a strong dislike for favoritism, nepotism, and anything else that awards people over their actual abilities and virtues. I don't enjoy undue criticism, but flattery will get you nowhere. If you have constructive criticism, I would appreciate it if you would let me know. 
 
 # Strength and Weakness
 
