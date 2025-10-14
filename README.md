@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # About Me
 
-My name is Geoff. I am a nontraditional student and a veteran with a background in logicistics and data science. I was born way out in the country in rural Pennsylvania. I am something of a tech nomad. I am a fifth generation American and an Alaska resident, but I am currently finishing my thesis and doing an internship in Omaha. For fun, I like fat tire biking, seeing new places, and going to dance clubs. I listen mainly to industrial music. I competed on the ballroom team at Harvard University. I like trading futures, doing cybersecurity challenges, and exploring cutting edge data science. My research interests focus around zero-day discovery. I own property in Alaska and Nevada, and some of my favorite cities are Denver, Tampa, Chicago, and Austin.
+My name is Geoff. I am a nontraditional student and a veteran with a background in logistics and data science. I was born way out in the country in rural Pennsylvania. I am something of a tech nomad. I am a fifth generation American and an Alaska resident, but I am currently finishing my thesis and doing an internship in Omaha. For fun, I like fat tire biking, seeing new places, and going to dance clubs. I listen mainly to industrial music. I competed on the ballroom team at Harvard University. I like trading futures, doing cybersecurity challenges, and exploring cutting edge data science. My research interests focus around zero-day discovery. I own property in Alaska and Nevada, and some of my favorite cities are Denver, Tampa, Chicago, and Austin.
 
 # How I Work Best
 
