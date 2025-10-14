@@ -42,7 +42,7 @@ I like winning awards. I am intensely competitive and have a strong dislike for 
 
 # Strength and Weakness
 
-My strength is that I am extremely intelligent. My weakness is perhaps that I see intelligence as a commodity.
+My strength is that I am really quite intelligent. My weakness is perhaps that I see intelligence as a commodity.
 
 # A Few More Things about Me
 
