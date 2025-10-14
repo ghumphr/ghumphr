@@ -26,7 +26,7 @@ I usually like to block time into specific tasks and work on those tasks exclusi
 
 # Communication and Collaboration Style
 
-I prefer communication by email. If I've told you a specific time and means to contact me, please contact me within those parameters. On the other hand, if I've told you that you can contact me any time day or not, feel free to contact me any time day or night - but if I'm sleeping, please have a reason.
+I prefer communication by email. If I've told you a specific time and means to contact me, please contact me within those parameters. On the other hand, if I've told you that you can contact me anytime day or not, feel free to contact me anytime day or night - but if I'm sleeping, please have a reason.
 
 # What I Value
 
