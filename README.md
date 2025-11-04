@@ -38,7 +38,7 @@ I read fast, and I am good at learning large amounts of information quickly. I e
 
 # Feedback and Recognition
 
-I like winning awards. I am intensely competitive and have a strong dislike for favoritism, nepotism, and anything else that awards people over their actual abilities and virtues. I don't enjoy undue criticism, but flattery will get you nowhere. If you have constructive criticism, I would appreciate it if you would let me know. 
+I like winning awards. I am intensely competitive and have a strong dislike for favoritism, nepotism, and anything else that awards people over their actual abilities and virtues. I don't enjoy undue criticism, but flattery will get you nowhere. If you have constructive criticism, I would appreciate it if you would let me know. I would like to reiterate that this is for *constructive* criticism.
 
 # Strength and Weakness
 
